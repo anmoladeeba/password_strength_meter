@@ -1,0 +1,2 @@
+# password_strength_meter
+check_password_strength_meter
